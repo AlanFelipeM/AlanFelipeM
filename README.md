@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Alan Felipe 😁
+## Olá! Seja bem-vindo(a) ao perfil do dev Alan Felipe! 😁
 
  <div>
    <a href="https://github.com/AlanFelipeM">
@@ -20,3 +20,5 @@
   <a href = "mailto:alanfelipe1678@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alan-felipe-3666b3220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/AlanFelipeM/AlanFelipeM/blob/output/github-contribution-grid-snake.svg)
