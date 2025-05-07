@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" play="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNlMTR4MHJrOGZzOHdlMWJ2ZGdrc215azEyMzE2OXp3ZW5nazBtbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tHIRLHtNwxpjIFqPdV/giphy.gif"  />
+<img align="right" height="150" play="auto" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQzbnNrazJseXY4ejZ4OWYyZmlyOGRobGUyMXJ2MmY0ZWRnMTd3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif"  />
 
 ###
 
@@ -40,7 +40,7 @@
 ###
 
 <div align="left">
-  <a href="alanfelipe1678@gmail.com" target="_blank">
+  <a href="mailto:alanfelipe1678@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/alan-felipe-3666b3220/" target="_blank">
